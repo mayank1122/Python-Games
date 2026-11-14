@@ -9,3 +9,4 @@ Each game in this collection lives in its own folder. Open a game folder for how
 | Game | Folder | What it is |
 | --- | --- | --- |
 | Tic Tac Toe | [Tic Tac Toe](Tic%20Tac%20Toe/) | Two-player desktop game with named players and saved scores |
+| Reverse Detective | [Reverse Detective](Reverse%20Detective/) | Frame an innocent suspect with planted clues while avoiding contradictions |
