@@ -12,3 +12,4 @@ Each game in this collection lives in its own folder. Open a game folder for how
 | Reverse Detective | [Reverse Detective](Reverse%20Detective/) | Frame an innocent suspect with planted clues while avoiding contradictions |
 | Haunted Customer Support | [Haunted Customer Support](Haunted%20Customer%20Support/) | Investigate ghost callers and resolve their unfinished business |
 | Dream Customs | [Dream Customs](Dream%20Customs/) | Inspect impossible luggage at the border between dreams and reality |
+| Sabotage the Prophecy | [Sabotage the Prophecy](Sabotage%20the%20Prophecy/) | Fulfill ominous verses through harmless, carefully chosen interpretations |
